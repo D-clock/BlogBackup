@@ -17,7 +17,7 @@ ProGuard是针对Java应用的保护，并不是专门针对Android应用的，A
 
 - 关于ProGuard，详见：https://www.guardsquare.com/en/proguard
 - 关于DexGuard，详见：https://www.guardsquare.com/en/dexguard
-- 关于反编译工具，详见我一篇旧文：http://blog.coderclock.com/2016/07/04/android/%E9%82%A3%E4%BA%9B%E5%80%BC%E5%BE%97%E4%BD%A0%E8%AF%95%E8%AF%95%E7%9A%84Android%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7/
+- 关于反编译工具，详见我一篇旧文：[那些值得你试试的Android竞品分析工具](http://blog.coderclock.com/2016/07/04/android/%E9%82%A3%E4%BA%9B%E5%80%BC%E5%BE%97%E4%BD%A0%E8%AF%95%E8%AF%95%E7%9A%84Android%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7/)
 
 虽然代码混淆是最为基础的保护措施，不过国内仍有不少应用还是裸奔的，其中还包括一些大厂应用（此处不表）。
 
