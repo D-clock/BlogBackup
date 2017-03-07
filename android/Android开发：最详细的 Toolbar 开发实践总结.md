@@ -444,3 +444,7 @@ styles.xml 中的 Theme.ToolBar.ZhiHu，给 **Toolbar** 设置android:theme用�
 对于想要更深的了解 **Toolbar** 设计的童鞋，也可以看看这篇[官网文档](http://www.google.com/design/spec/components/toolbars.html)（自备梯子）。
 
 同样，分享即美德，需要源代码的童鞋，请戳：https://github.com/D-clock/AndroidSystemUiTraining
+
+**转载请注明出处，喜欢我的文章可以搜索并关注我的微信公众号：技术视界**
+
+![](https://diycode.b0.upaiyun.com/photo/2017/a3fc893f2cf4d4ab33ac32666d00a793.jpg)

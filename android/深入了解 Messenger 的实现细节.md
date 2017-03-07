@@ -224,3 +224,7 @@ Android 系统跨进程通讯的底层实现都是通过 Binder 实现，正常�
 因为平时并不常用到 oneway，加上文档提及的很少，唯一有描述的就是下面这段。这次看了 Messenger 的代码才知道有这么回事，也是涨姿势了。
 
 ![](https://diycode.b0.upaiyun.com/photo/2017/2f2ba18b3de4ba3de081d9274138ab80.png)
+
+**转载请注明出处，喜欢我的文章可以搜索并关注我的微信公众号：技术视界**
+
+![](https://diycode.b0.upaiyun.com/photo/2017/a3fc893f2cf4d4ab33ac32666d00a793.jpg)

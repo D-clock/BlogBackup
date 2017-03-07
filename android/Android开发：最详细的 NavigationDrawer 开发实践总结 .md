@@ -374,3 +374,7 @@ NavigationView 基本已经规定设置好了大小距离，留给我们可以�
 分享即美德，源代码请看：https://github.com/D-clock/AndroidSystemUiTraining ，本篇的主要实现代码如下红圈所示
 
 ![](https://diycode.b0.upaiyun.com/photo/2017/bc10dbdabd954e0fc8f54de20125c3a1.png)
+
+**转载请注明出处，喜欢我的文章可以搜索并关注我的微信公众号：技术视界**
+
+![](https://diycode.b0.upaiyun.com/photo/2017/a3fc893f2cf4d4ab33ac32666d00a793.jpg)

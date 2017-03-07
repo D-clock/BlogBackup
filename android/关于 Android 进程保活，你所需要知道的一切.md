@@ -224,3 +224,7 @@ https://github.com/D-clock/AndroidDaemonService
 ## 福利
 
 ![](https://diycode.b0.upaiyun.com/photo/2017/4db06a7601175ce1abadd081f8d94da7.png)
+
+**转载请注明出处，喜欢我的文章可以搜索并关注我的微信公众号：技术视界**
+
+![](https://diycode.b0.upaiyun.com/photo/2017/a3fc893f2cf4d4ab33ac32666d00a793.jpg)

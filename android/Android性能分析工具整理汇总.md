@@ -119,3 +119,7 @@ tags: [Android,性能分析,工具]
 目前大体就这些了，后续有更好的工具也会接着更新，有些工具过时失效了，也会在这里移除...
 
 文章同步归档到此：[https://github.com/D-clock/Doc](https://github.com/D-clock/Doc)
+
+**转载请注明出处，喜欢我的文章可以搜索并关注我的微信公众号：技术视界**
+
+![](https://diycode.b0.upaiyun.com/photo/2017/a3fc893f2cf4d4ab33ac32666d00a793.jpg)

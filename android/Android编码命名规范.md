@@ -201,3 +201,7 @@ Java编程比较常见的有下面三种命名方式
 - 一开始总会不习惯的，一步一个脚印，持之以恒，总会成功的
 
 文章同步归档到此处：https://github.com/D-clock/Doc/tree/master/Code
+
+**转载请注明出处，喜欢我的文章可以搜索并关注我的微信公众号：技术视界**
+
+![](https://diycode.b0.upaiyun.com/photo/2017/a3fc893f2cf4d4ab33ac32666d00a793.jpg)

@@ -388,6 +388,6 @@ no，此方案行不通，inJustDecodeBounds = true 时，BitmapFactory 获得 B
 
 感兴趣的童鞋可以自行查看！如有错误，欢迎大家指正！
 
-## 打个广告
+**转载请注明出处，喜欢我的文章可以搜索并关注我的微信公众号：技术视界**
 
-最近 [diycode 社区](http://diycode.cc/) 上，越来越多开发小伙伴活跃在上面。看着有意思的提问，有意思的回答，我的感触还是蛮大的，曾经渴望过有这样一个优雅问答的技术社区存在，目前在一点点的实现！希望能够它能够越做越好！喜欢开发的小伙伴也可以一起上来 http://diycode.cc/ 探讨交流！
+![](https://diycode.b0.upaiyun.com/photo/2017/a3fc893f2cf4d4ab33ac32666d00a793.jpg)

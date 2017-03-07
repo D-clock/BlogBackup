@@ -132,3 +132,7 @@ public class SimpleCustomAnimation extends Animation {
 到此，整篇文章已经完结，相信已经能够让你明白开头提到的三个问题。其实我们也可以发现，Google 封装了 Matrix 已经是很完美了，几乎屏蔽了所有的数学细节，使得我这种数学水平一般的开发者也能够去调用相应的 API 实现一些简单的效果。虽然被封装得很完美，但掌握相应的一些原理，依旧可以帮你更好的理解一些技术实现，此次加深了对 Matrix 一些操作的理解，帮我自己解决了以前不少的困惑，不知道有没有帮你 get 到一些什么呢？
 
 上面给的示例代码很简单，复制黏贴即可运行玩耍，实在需要直接运行源码的童鞋就到 https://github.com/D-clock/AndroidStudyCode 找吧！
+
+**转载请注明出处，喜欢我的文章可以搜索并关注我的微信公众号：技术视界**
+
+![](https://diycode.b0.upaiyun.com/photo/2017/a3fc893f2cf4d4ab33ac32666d00a793.jpg)

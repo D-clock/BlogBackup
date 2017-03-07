@@ -342,4 +342,6 @@ OK，关于 RecyclerView 和 ListView 一些常用的功能和 API 的对比，�
 
 这里只是客观的去分析一些使用上的差异，并不是想突出哪个控件好哪个控件不好，大家可以根据自己的使用场景来选择是要用 RecyclerView 还是 ListView，毕竟，**合适的才是最好的**。洋洋晒晒写了一大堆，相信你已经看到不少 RecyclerView 和 ListView 使用上的区别了，不知道有没有我在文中没提到的呢，欢迎下方留言。文中所有的项目实践代码都在这里：https://github.com/D-clock/AndroidSystemUiTraining ，需要的同学可以自行下载查看。
 
-**本文同步更新到 [我的简书](http://www.jianshu.com/users/ec95b5891948/latest_articles) 和 [我的Diycode](http://www.diycode.cc/d_clock)，如果你觉得文章不错，期待我的新作品，欢迎关注 [我的简书](http://www.jianshu.com/users/ec95b5891948/latest_articles) 和 [我的Diycode](http://www.diycode.cc/d_clock) ，如果能够再 Follow 一下 [我的Github](https://github.com/D-clock) 就更好了。**
+**转载请注明出处，喜欢我的文章可以搜索并关注我的微信公众号：技术视界**
+
+![](https://diycode.b0.upaiyun.com/photo/2017/a3fc893f2cf4d4ab33ac32666d00a793.jpg)

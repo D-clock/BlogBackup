@@ -322,3 +322,7 @@ public abstract class TranslucentBarBaseActivity extends AppCompatActivity {
 **我是热爱技术，喜欢开源和分享的Clock，很享受写文和其他开发者们探讨问题的乐趣，其中很多bug都是其他细心的开发者发现的。如果你对我写的内容感兴趣，欢迎关注我的简书，我很乐意把我开发中一些有趣的东西分享到简书中来（虽然目前仅仅是Android，但相信以后肯定会有其他内容的），希望与其他开发者共同探讨，共同进步！**
 
 分享即美德，最后附上源代码地址：https://github.com/D-clock/AndroidSystemUiTraining
+
+**转载请注明出处，喜欢我的文章可以搜索并关注我的微信公众号：技术视界**
+
+![](https://diycode.b0.upaiyun.com/photo/2017/a3fc893f2cf4d4ab33ac32666d00a793.jpg)
