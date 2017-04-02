@@ -3,6 +3,7 @@ title: 深入了解 Messenger 的实现细节
 date: 2016-10-08
 categories: Android
 tags: [Android,Messenger,源码分析]
+keywords: Android,Messenger,源码分析
 ---
 
 近一个半月因为工作变动的缘故，忙着交接工作和复习面试。没有多少时间来写博客，连一周三次的健身都有几个星期没练了，好多同事问我是胖了还是壮了（我迅速就岔开话题了，机智boy）。上周离职，这周主要在处理一些私事、做些入职准备工作、看点书之类的，下周入职YY（上周才知道原来大神罗升阳也在YY）。好啦，说了这么多，要开始进入 Messenger 的正题了。

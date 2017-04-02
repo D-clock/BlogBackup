@@ -3,6 +3,7 @@ title: ScratchView：一步步打造万能的 Android 刮奖效果控件
 date: 2016-09-04
 categories: Android
 tags: [Android,UI效果,自定义控件,刮奖]
+keywords: Android,UI效果,自定义控件,刮奖
 ---
 
 Hello，大家好，我是Clock。这周为大家带来一篇关于自定义控件的文章，这也是我本人第一次写关于自定义控件的文章，希望可以写得言简意赅，通熟易懂点。

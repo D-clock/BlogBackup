@@ -3,6 +3,7 @@ title: 关于Android RecyclerView的那些开源LayoutManager
 date: 2017-03-26
 categories: Android
 tags: [Android,开源,RecyclerView,LayoutManager]
+keywords: Android,开源,RecyclerView,LayoutManager
 ---
 
 Google默认为RecyclerView提供了LinearLayoutManager、StaggeredGridLayoutManager、GridLayoutManager，已经可以满足很多开发需求了，但是实际开发过程中，免不了出现一些更加新颖的交互设计。于是，便从Github上整理了一波关于RecyclerView可以使用的LayoutManager，在实际开发中需要用到时，遇到相似的效果时即可随手拈来，提高效率。

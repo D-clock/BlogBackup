@@ -3,6 +3,7 @@ title: 关于 Android 进程保活，你所需要知道的一切
 date: 2016-04-17
 categories: Android
 tags: [Android,进程,保活]
+keywords: Android,进程,保活,进程保活
 ---
 
 早前，我在知乎上回答了这样一个问题：[怎么让 Android 程序一直后台运行，像 QQ 一样不被杀死？](https://www.zhihu.com/question/29826231/answer/79475911)。关于 Android 平台的进程保活这一块，想必是所有 Android 开发者瞩目的内容之一。你到网上搜 Android 进程保活，可以搜出各种各样神乎其技的做法，绝大多数都是极其不靠谱。前段时间，Github还出现了一个很火的**“黑科技”**进程保活库，声称可以做到**进程永生不死**。

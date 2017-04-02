@@ -3,6 +3,7 @@ title: Android开发：最详细的 Toolbar 开发实践总结
 date: 2016-02-20
 categories: Android
 tags: [Android,UI效果]
+keywords: Android,UI效果,Toolbar,导航栏,最佳实践
 ---
 
 过年前发了一篇介绍 Translucent System Bar 特性的文章 [Translucent System Bar 的最佳实践](http://blog.coderclock.com/2016/02/04/Android开发：Translucent%20System%20Bar%20的最佳实践/)，收到很多开发者的关注和反馈。今天开始写第二篇，全面的介绍一下 **Toolbar** 的使用。说起 **Toolbar** ，可能有很多开发的童鞋还比较陌生，没关系，请接着往下看。

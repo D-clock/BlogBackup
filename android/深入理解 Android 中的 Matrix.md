@@ -3,6 +3,7 @@ title: 深入理解 Android 中的 Matrix
 date: 2016-07-19
 categories: Android
 tags: [Android,矩阵,Matrix]
+keywords: Android,矩阵,Matrix
 ---
 
 在 Android 开发中，矩阵是一个功能强大并且应用广泛的神器，例如：用它来制作动画效果、改变图片大小、给图片加各类滤镜等。对于矩阵，Android 官方 SDK 为我们提供了一个强大的类 Matrix （还有 ColorMatrix ）是一直困扰着我的问题，虽然大致能够调用相应的 API ，但却一直 get 不到其内在的梗。但是出来混总是别想着蒙混过关的，所以最近重新操起一年毕业的线性代数，再本着小事问老婆，大事问Google的心态，终于把多年不解的问题给破了。出于好记性不如烂笔头的原因，便有了本文。在此先感谢下面两篇令我茅舍顿开的文章：

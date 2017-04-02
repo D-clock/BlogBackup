@@ -3,6 +3,7 @@ title: Android开发：最详细的 NavigationDrawer 开发实践总结
 date: 2016-02-28
 categories: Android
 tags: [Android,UI效果]
+keywords: Android,UI效果,NavigationDrawer,侧滑栏,最佳实践
 ---
 
 继前面写的两篇文章之后（**有问题欢迎反馈哦**）：

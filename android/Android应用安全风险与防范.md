@@ -3,6 +3,7 @@ title: Android应用安全风险与防范
 date: 2017-03-05
 categories: Android
 tags: [Android,应用安全,逆向工程,安全分险]
+keywords: Android,应用安全,逆向工程,安全分险
 ---
 
 Hello，大家好，我是Clock。最近一段时间在做Android应用安全方面的功课，本文进行简单梳理方便以后Review，有错误和遗漏之处还请大家指出。

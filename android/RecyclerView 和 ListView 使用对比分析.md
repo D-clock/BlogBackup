@@ -3,6 +3,7 @@ title: RecyclerView 和 ListView 使用对比分析
 date: 2016-08-08
 categories: Android
 tags: [Android,UI效果,RecyclerView,ListView]
+keywords: Android,UI效果,RecyclerView,ListView
 ---
 
 今天这篇文章主要是向大家介绍 RecyclerView 和 ListView 的使用对比，文章主要包括以下几点的内容：

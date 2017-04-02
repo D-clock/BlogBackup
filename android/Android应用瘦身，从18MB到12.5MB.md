@@ -3,6 +3,7 @@ title: Android应用瘦身，从18MB到12.5MB
 date: 2017-01-24
 categories: Android
 tags: [Android,应用瘦身,性能优化]
+keywords: Android,应用瘦身,Apk瘦身,性能优化
 ---
 
 Hello，大家好，我是Clock。这是我春节前的最后一篇技术分享文章了，在这里提前预祝大家鸡年万事如意，身体健康，新年升职加薪。

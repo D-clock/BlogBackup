@@ -3,6 +3,7 @@ title: Android应用继续瘦身，以及一些注意事项
 date: 2017-03-31
 categories: Android
 tags:  [Android,应用瘦身,性能优化]
+keywords: Android,应用瘦身,Apk瘦身,性能优化
 ---
 
 自上次对应用瘦身过后，经历的若干功能的迭代，很快的，安装包大小又到了15MB，老大说要控制在10MB之内，于是便开始了新一轮的瘦身之旅。

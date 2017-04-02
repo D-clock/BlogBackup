@@ -3,6 +3,7 @@ title: Android开发：Translucent System Bar 的最佳实践
 date: 2016-02-04
 categories: Android
 tags: [Android,UI效果]
+keywords: Android,UI效果,Translucent System Bar,最佳实践
 ---
 
 近几天准备抽空总结Android一些系统UI的实践使用，于是开始动手建了一个库 [AndroidSystemUiTraining](https://github.com/D-clock/AndroidSystemUiTraining) ，边撸代码边写总结。今天开写第一篇，对 Translucent System Bar 的实践做一些总结。说起 Translucent System Bar 的特性，可能有些朋友还比较陌生，这里做一下简单的介绍。

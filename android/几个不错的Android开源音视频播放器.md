@@ -3,6 +3,7 @@ title: 几个不错的Android开源音视频播放器
 date: 2017-03-19
 categories: Android
 tags: [Android,开源,音视频,播放器]
+keywords: Android,开源,音视频,播放器
 ---
 
 整理了一下Github上几个开源的音视频播放器项目，有兴趣的同学可以clone代码去研究学习。
